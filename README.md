@@ -347,7 +347,7 @@
 
 ### ADR: Architecture Decision Record
 
-* [Process](https://github.com/joelparkerhenderson/architecture-decision-record) ⭐ 16,717 | 🐛 10 | 📅 2026-08-20
+* [Process](https://github.com/joelparkerhenderson/architecture-decision-record) ⭐ 16,718 | 🐛 10 | 📅 2026-08-20
 * Templates
   * [Atlassian](https://www.atlassian.com/software/confluence/templates/decision)
 
@@ -434,9 +434,9 @@
 
 | How they | Link                                                                                          |
 | -------- | --------------------------------------------------------------------------------------------- |
-| SRE      | <https://github.com/upgundecha/howtheysre> ⭐ 9,801 \| 🐛 11 \| 🌐 JavaScript \| 📅 2025-11-17 |
-| Test     | <https://github.com/abhivaikar/howtheytest> ⭐ 6,864 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-08-22 |
-| Devops   | <https://github.com/bregman-arie/howtheydevops> ⭐ 1,066 \| 🐛 1 \| 📅 2022-11-25              |
+| SRE      | <https://github.com/upgundecha/howtheysre> ⭐ 9,802 \| 🐛 11 \| 🌐 JavaScript \| 📅 2025-11-17 |
+| Test     | <https://github.com/abhivaikar/howtheytest> ⭐ 6,865 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-08-22 |
+| Devops   | <https://github.com/bregman-arie/howtheydevops> ⭐ 1,065 \| 🐛 1 \| 📅 2022-11-25              |
 | AWS      | <https://github.com/upgundecha/howtheyaws> ⭐ 678 \| 🐛 2 \| 🌐 JavaScript \| 📅 2023-10-10    |
 | DBT      | <https://github.com/stumelius/howtheydbt> ⭐ 116 \| 🐛 0 \| 📅 2022-02-28                      |
 
@@ -446,7 +446,7 @@
 
 | Link                                                                                                   | Description                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [OpenProject](https://github.com/opf/openproject) ⭐ 15,911 \| 🐛 214 \| 🌐 Ruby \| 📅 2026-08-23       | OpenProject is the leading open source project management software.                                                                                              |
+| [OpenProject](https://github.com/opf/openproject) ⭐ 15,915 \| 🐛 224 \| 🌐 Ruby \| 📅 2026-08-24       | OpenProject is the leading open source project management software.                                                                                              |
 | [taiga.io](https://github.com/taigaio)                                                                 | Your Agile, Free and Open Source Project Management Tool                                                                                                         |
 | [Redmine](https://www.redmine.org/)                                                                    | Redmine is a flexible project management web application.                                                                                                        |
 | [Phabricator](https://phacility.com)                                                                   | Phabricator is a set of tools for developing software. It includes applications for code review, repository hosting, bug tracking, project management, and more. |
@@ -470,10 +470,10 @@
 
 | Link                                                                                                        | Description                                                                         |
 | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [focalboard](https://github.com/mattermost/focalboard) ⭐ 26,419 \| 🐛 784 \| 🌐 TypeScript \| 📅 2026-05-18 | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
+| [focalboard](https://github.com/mattermost/focalboard) ⭐ 26,424 \| 🐛 784 \| 🌐 TypeScript \| 📅 2026-05-18 | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
 | [react-kanban](https://github.com/markusenglund/react-kanban) ⚠️ Archived                                   | A server-rendered React app inspired by Trello.                                     |
-| [wekan](https://github.com/wekan/wekan) ⭐ 21,058 \| 🐛 334 \| 🌐 JavaScript \| 📅 2026-08-22                | Open Source kanban                                                                  |
-| [kanboard](https://github.com/kanboard/kanboard) ⭐ 9,815 \| 🐛 168 \| 🌐 PHP \| 📅 2026-08-11               | Kanban project management software                                                  |
+| [wekan](https://github.com/wekan/wekan) ⭐ 21,060 \| 🐛 337 \| 🌐 JavaScript \| 📅 2026-08-24                | Open Source kanban                                                                  |
+| [kanboard](https://github.com/kanboard/kanboard) ⭐ 9,818 \| 🐛 167 \| 🌐 PHP \| 📅 2026-08-23               | Kanban project management software                                                  |
 | [huboard](https://github.com/huboard/huboard) ⭐ 1,713 \| 🐛 144 \| 📅 2019-06-03                            | Instant task management for your GitHub repositories                                |
 | [nullboard](https://github.com/apankrat/nullboard) ⭐ 4,146 \| 🐛 50 \| 🌐 HTML \| 📅 2023-11-05             | Nullboard is a minimalist kanban board, focused on compactness and readability.     |
 
@@ -481,7 +481,7 @@
 
 | Link                                                                                                                | Description                                                       |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,846 \| 🐛 24 \| 🌐 Shell \| 📅 2025-07-07           | Recall what you did on the last working day.                      |
+| [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,847 \| 🐛 24 \| 🌐 Shell \| 📅 2025-07-07           | Recall what you did on the last working day.                      |
 | [standuptimer.app](https://standuptimer.app)                                                                        | Use this free timer for your team standups to keep them on track  |
 | [scrumbot](https://github.com/redsift/scrumbot) ⚠️ Archived                                                         | Slack bot for standup meetings                                    |
 | [slack-standup-bot](https://github.com/colestrode/slack-standup-bot) ⭐ 28 \| 🐛 5 \| 🌐 JavaScript \| 📅 2018-06-13 | Daily, weekly, whenever standup bot for Slack                     |
@@ -493,8 +493,8 @@
 | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [Confluence](https://www.atlassian.com/software/confluence)                                        | Confluence is your remote-friendly team workspace where knowledge and collaboration meet. |
 | [Notion](https://notion.so)                                                                        | One tool for your whole team. Write, plan, and get organized.                             |
-| [Bookstack](https://github.com/BookStackApp/BookStack) ⭐ 19,003 \| 🐛 1 \| 🌐 PHP \| 📅 2026-08-23 | A platform to create documentation/wiki content built with PHP & Laravel                  |
-| [Mediawiki](https://github.com/wikimedia/mediawiki) ⭐ 5,150 \| 🐛 0 \| 🌐 PHP \| 📅 2026-08-23     | The collaborative editing software that runs Wikipedia.                                   |
+| [Bookstack](https://github.com/BookStackApp/BookStack) ⭐ 19,002 \| 🐛 1 \| 🌐 PHP \| 📅 2026-08-24 | A platform to create documentation/wiki content built with PHP & Laravel                  |
+| [Mediawiki](https://github.com/wikimedia/mediawiki) ⭐ 5,152 \| 🐛 0 \| 🌐 PHP \| 📅 2026-08-24     | The collaborative editing software that runs Wikipedia.                                   |
 | [Dropbox paper](https://www.dropbox.com/paper)                                                     | Real-time editing for teams.                                                              |
 | [Google docs](https://docs.new)                                                                    | Google docs                                                                               |
 | [Instiki](https://github.com/parasew/instiki) ⭐ 508 \| 🐛 7 \| 🌐 JavaScript \| 📅 2026-08-19      | Basic wiki clone so pretty and easy to set up, you’ll wonder if it’s really a wiki.       |
@@ -521,11 +521,11 @@
 | Link                                                                                                       | Description                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | [Nylas](https://github.com/nylas/nylas-mail) ⚠️ Archived                                                   | An extensible desktop mail app built on the modern web.                                                       |
-| [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,748 \| 🐛 22 \| 🌐 JavaScript \| 📅 2026-08-23 | A beautiful, fast and fully open source mail client for Mac, Windows and Linux.                               |
+| [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,751 \| 🐛 16 \| 🌐 JavaScript \| 📅 2026-08-23 | A beautiful, fast and fully open source mail client for Mac, Windows and Linux.                               |
 | [Thunderbird](https://www.thunderbird.net/)                                                                | Make Email Easier.                                                                                            |
 | [Shift](https://tryshift.com/)                                                                             | Shift is a desktop app for streamlining all of your email and app accounts.                                   |
 | [Rambox](https://github.com/ramboxapp/community-edition) ⚠️ Archived                                       | Free and Open Source messaging and emailing app that combines common web applications into one.               |
-| [K9](https://github.com/k9mail/k-9) ⭐ 13,893 \| 🐛 1,054 \| 🌐 Kotlin \| 📅 2026-08-20                     | K-9 Mail – Open Source Email App for Android                                                                  |
+| [K9](https://github.com/k9mail/k-9) ⭐ 13,903 \| 🐛 1,056 \| 🌐 Kotlin \| 📅 2026-08-24                     | K-9 Mail – Open Source Email App for Android                                                                  |
 | [Evolution](https://help.gnome.org/users/evolution/stable/)                                                | Evolution is a fully-featured open source groupware application                                               |
 | [Microsoft Office Outlook](https://office.microsoft.com/outlook)                                           | Outlook is a personal information manager that lets you manage your e-mail, calendar, contacts, and tasks.    |
 | [Freeter](https://freeter.io/)                                                                             | Free and Open Source app to gather all messaging, emailing and other web app accounts in one organized place. |
@@ -571,12 +571,12 @@
 
 | Link                                                                                                             | Description                                                                             |
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [activitywatch](https://github.com/ActivityWatch/activitywatch) ⭐ 18,681 \| 🐛 185 \| 🌐 Python \| 📅 2026-08-22 | Records what you do so that you can know how you've spent your time.                    |
+| [activitywatch](https://github.com/ActivityWatch/activitywatch) ⭐ 18,688 \| 🐛 184 \| 🌐 Python \| 📅 2026-08-23 | Records what you do so that you can know how you've spent your time.                    |
 | [marinara](https://github.com/schmich/marinara) ⭐ 2,457 \| 🐛 229 \| 🌐 JavaScript \| 📅 2023-05-28              | Marinara is a time management assistant for Chrome that follows the Pomodoro Technique. |
-| [pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,440 \| 🐛 126 \| 🌐 Rust \| 📅 2026-08-02                   | Simple and visually-pleasing Pomodoro timer                                             |
-| [pomatez](https://github.com/roldanjr/pomatez) ⭐ 4,872 \| 🐛 167 \| 🌐 TypeScript \| 📅 2026-05-19               | Stay Focused. Take a Break.                                                             |
+| [pomotroid](https://github.com/Splode/pomotroid) ⭐ 5,442 \| 🐛 126 \| 🌐 Rust \| 📅 2026-08-02                   | Simple and visually-pleasing Pomodoro timer                                             |
+| [pomatez](https://github.com/roldanjr/pomatez) ⭐ 4,874 \| 🐛 167 \| 🌐 TypeScript \| 📅 2026-05-19               | Stay Focused. Take a Break.                                                             |
 | [gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) ⭐ 2,238 \| 🐛 58 \| 🌐 Vala \| 📅 2026-08-22  | A time management utility for GNOME based on the pomodoro technique!                    |
-| [Goodtime](https://github.com/adrcotfas/Goodtime) ⭐ 1,871 \| 🐛 63 \| 🌐 Kotlin \| 📅 2026-08-21                 | productivity app for Android                                                            |
+| [Goodtime](https://github.com/adrcotfas/Goodtime) ⭐ 1,872 \| 🐛 64 \| 🌐 Kotlin \| 📅 2026-08-24                 | productivity app for Android                                                            |
 | [Yellow Tomato](https://productive.fish/pomodoro-timer/)                                                         | Simple Pomodoro timer for concentration at work                                         |
 
 ### Code Hosting
@@ -593,31 +593,31 @@
 
 | Link                                                                                                                          | Description                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Invoiceninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,017 \| 🐛 926 \| 🌐 PHP \| 📅 2026-08-20                    | Invoices, Expenses and Tasks built with Laravel and Flutter                                                                                |
+| [Invoiceninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,022 \| 🐛 925 \| 🌐 PHP \| 📅 2026-08-20                    | Invoices, Expenses and Tasks built with Laravel and Flutter                                                                                |
 | [Wakatime](https://github.com/wakatime)                                                                                       | Dashboards for developers, powered by open source IDE plugins.                                                                             |
-| [Activitywatch](https://github.com/ActivityWatch/activitywatch) ⭐ 18,681 \| 🐛 185 \| 🌐 Python \| 📅 2026-08-22              | Records what you do so that you can know how you've spent your time.                                                                       |
-| [Super-productivity](https://github.com/johannesjo/super-productivity) ⭐ 21,528 \| 🐛 1,465 \| 🌐 TypeScript \| 📅 2026-08-22 | To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration                              |
+| [Activitywatch](https://github.com/ActivityWatch/activitywatch) ⭐ 18,688 \| 🐛 184 \| 🌐 Python \| 📅 2026-08-23              | Records what you do so that you can know how you've spent your time.                                                                       |
+| [Super-productivity](https://github.com/johannesjo/super-productivity) ⭐ 21,546 \| 🐛 1,469 \| 🌐 TypeScript \| 📅 2026-08-24 | To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration                              |
 | [Toggldesktop](https://github.com/toggl-open-source/toggldesktop) ⚠️ Archived                                                 | Toggl Desktop is a Toggl time tracking client                                                                                              |
-| [Kimai2](https://github.com/kevinpapst/kimai2) ⭐ 4,931 \| 🐛 337 \| 🌐 PHP \| 📅 2026-08-20                                   | Kimai v2 is a web-based multiuser time-tracking application                                                                                |
-| [ShareX](https://github.com/ShareX/ShareX) ⭐ 39,252 \| 🐛 662 \| 🌐 C# \| 📅 2026-08-22                                       | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key |
+| [Kimai2](https://github.com/kevinpapst/kimai2) ⭐ 4,935 \| 🐛 338 \| 🌐 PHP \| 📅 2026-08-24                                   | Kimai v2 is a web-based multiuser time-tracking application                                                                                |
+| [ShareX](https://github.com/ShareX/ShareX) ⭐ 39,277 \| 🐛 659 \| 🌐 C# \| 📅 2026-08-23                                       | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key |
 
 ### Mentoring
 
 | Link                                                                                                                                | Description                                                                                                                                                                            |                             |
 | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,195 \| 🐛 11 \| 🌐 TypeScript \| 📅 2026-08-21        | Roadmap to becoming a web developer in 2021                                                                                                                                            |                             |
-| [awesome-quality-assurance-roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap) ⭐ 2,165 \| 🐛 9 \| 📅 2026-06-04 | The starting point of your career as a Software Quality Assurance Engineer                                                                                                             | Quality Automation Engineer |
-| [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,466 \| 🐛 16 \| 📅 2024-12-02        | An ultra-simplified explanation to design patterns                                                                                                                                     |                             |
-| [ossu/computer-science](https://github.com/ossu/computer-science) ⭐ 208,338 \| 🐛 25 \| 🌐 HTML \| 📅 2026-07-14                    | Path to a free self-taught education in Computer Science!                                                                                                                              |                             |
-| [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,639 \| 🐛 4 \| 📅 2026-08-14                               | Falsehoods Programmers Believe in                                                                                                                                                      |                             |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,285 \| 🐛 12 \| 🌐 TypeScript \| 📅 2026-08-21        | Roadmap to becoming a web developer in 2021                                                                                                                                            |                             |
+| [awesome-quality-assurance-roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap) ⭐ 2,167 \| 🐛 9 \| 📅 2026-06-04 | The starting point of your career as a Software Quality Assurance Engineer                                                                                                             | Quality Automation Engineer |
+| [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,468 \| 🐛 16 \| 📅 2024-12-02        | An ultra-simplified explanation to design patterns                                                                                                                                     |                             |
+| [ossu/computer-science](https://github.com/ossu/computer-science) ⭐ 208,377 \| 🐛 25 \| 🌐 HTML \| 📅 2026-07-14                    | Path to a free self-taught education in Computer Science!                                                                                                                              |                             |
+| [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,644 \| 🐛 4 \| 📅 2026-08-14                               | Falsehoods Programmers Believe in                                                                                                                                                      |                             |
 | [system\_design](https://github.com/shashank88/system_design) ⭐ 9,248 \| 🐛 14 \| 📅 2024-05-10                                     | Preparation links and resources for system design questions                                                                                                                            |                             |
-| [study-path](https://github.com/joebew42/study-path) ⭐ 3,005 \| 🐛 11 \| 📅 2025-04-17                                              | An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture                                     |                             |
+| [study-path](https://github.com/joebew42/study-path) ⭐ 3,004 \| 🐛 11 \| 📅 2025-04-17                                              | An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture                                     |                             |
 | [best-practices-checklist](https://github.com/palash25/best-practices-checklist) ⭐ 976 \| 🐛 0 \| 📅 2024-08-26                     | A list of awesome idiomatic code resources.                                                                                                                                            |                             |
 | [pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) ⭐ 5,737 \| 🐛 4 \| 📅 2024-06-17      | A curated list of topics to start learning software engineering                                                                                                                        |                             |
 | [evergreen-skills-developers](https://github.com/romenrg/evergreen-skills-developers) ⭐ 2,271 \| 🐛 2 \| 📅 2022-12-17              | List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers |                             |
-| [awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 70,603 \| 🐛 65 \| 📅 2023-05-04                                | List of awesome university courses for learning Computer Science!                                                                                                                      |                             |
+| [awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 70,626 \| 🐛 65 \| 📅 2023-05-04                                | List of awesome university courses for learning Computer Science!                                                                                                                      |                             |
 | [awesome-testing-courses](https://github.com/upgundecha/awesome-testing-courses) ⭐ 478 \| 🐛 2 \| 🌐 HTML \| 📅 2020-08-29          | A curated list of awesome online courses and tutorials on software testing, test automation and more.                                                                                  |                             |
-| [System design primer](https://github.com/donnemartin/system-design-primer) ⭐ 365,526 \| 🐛 612 \| 🌐 Python \| 📅 2026-03-20       | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.                                                                               |                             |
+| [System design primer](https://github.com/donnemartin/system-design-primer) ⭐ 365,683 \| 🐛 612 \| 🌐 Python \| 📅 2026-03-20       | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.                                                                               |                             |
 
 # Learning
 
@@ -676,18 +676,18 @@
 | Link                                                                                                                                     | Description                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) ⭐ 1,690 \| 🐛 0 \| 📅 2024-01-27  | Books for people who are or aspire to manage/lead team(s) of software engineers                                        |
-| [awesome-cto](https://github.com/kuchin/awesome-cto) ⭐ 35,364 \| 🐛 4 \| 📅 2026-03-02                                                   | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups               |
-| [awesome-startup](https://github.com/KrishMunot/awesome-startup) ⭐ 2,331 \| 🐛 41 \| 📅 2026-08-09                                       | All the required resources to build your own startup                                                                   |
-| [engineering-management](https://github.com/charlax/engineering-management) ⭐ 8,343 \| 🐛 1 \| 🌐 Shell \| 📅 2026-07-19                 | A collection of inspiring resources related to engineering management and tech leadership                              |
+| [awesome-cto](https://github.com/kuchin/awesome-cto) ⭐ 35,371 \| 🐛 4 \| 📅 2026-03-02                                                   | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups               |
+| [awesome-startup](https://github.com/KrishMunot/awesome-startup) ⭐ 2,331 \| 🐛 42 \| 📅 2026-08-09                                       | All the required resources to build your own startup                                                                   |
+| [engineering-management](https://github.com/charlax/engineering-management) ⭐ 8,344 \| 🐛 1 \| 🌐 Shell \| 📅 2026-07-19                 | A collection of inspiring resources related to engineering management and tech leadership                              |
 | [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)                                              | Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone. |
 | [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) ⭐ 2,582 \| 🐛 4 \| 📅 2026-08-14 | How to transition from software development to engineering management                                                  |
-| [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,540 \| 🐛 150 \| 🌐 Ruby \| 📅 2024-08-21                       | A curated list of engineering blogs                                                                                    |
+| [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,544 \| 🐛 150 \| 🌐 Ruby \| 📅 2024-08-21                       | A curated list of engineering blogs                                                                                    |
 | [empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) ⭐ 578 \| 🐛 5 \| 📅 2016-07-29                         | A curated list of resources for building and promoting more compassionate engineering cultures                         |
-| [awesome-project-management](https://github.com/shahedbd/awesome-project-management) ⭐ 794 \| 🐛 20 \| 📅 2026-07-28                     | Awesome lists about Project Management interesting and useful topics.                                                  |
+| [awesome-project-management](https://github.com/shahedbd/awesome-project-management) ⭐ 796 \| 🐛 20 \| 📅 2026-07-28                     | Awesome lists about Project Management interesting and useful topics.                                                  |
 | [engineer-manager](https://github.com/ryanburgess/engineer-manager) ⭐ 10,724 \| 🐛 6 \| 🌐 JavaScript \| 📅 2026-08-17                   | A list of engineering manager resource links.                                                                          |
 
-# [Laws to live by](https://github.com/dwmkerr/hacker-laws) ⭐ 27,263 | 🐛 152 | 🌐 HTML | 📅 2026-05-19
+# [Laws to live by](https://github.com/dwmkerr/hacker-laws) ⭐ 27,265 | 🐛 152 | 🌐 HTML | 📅 2026-05-19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
