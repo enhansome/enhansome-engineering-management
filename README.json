@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T01:21:29Z",
                 "owner": "architecture-decision-record",
                 "repo": "architecture-decision-record",
-                "stars": 16724
+                "stars": 16725
               }
             }
           ],
@@ -152,10 +152,10 @@
                 "archived": false,
                 "id": 6899875,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T05:42:11Z",
+                "last_commit": "2026-08-25T09:06:15Z",
                 "owner": "opf",
                 "repo": "openproject",
-                "stars": 15923
+                "stars": 15927
               }
             }
           ],
@@ -177,7 +177,7 @@
                 "last_commit": "2026-05-18T16:05:00Z",
                 "owner": "mattermost-community",
                 "repo": "focalboard",
-                "stars": 26425
+                "stars": 26426
               }
             },
             {
@@ -204,10 +204,10 @@
                 "archived": false,
                 "id": 16089035,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T01:43:35Z",
+                "last_commit": "2026-08-25T08:29:41Z",
                 "owner": "wekan",
                 "repo": "wekan",
-                "stars": 21064
+                "stars": 21065
               }
             },
             {
@@ -222,7 +222,7 @@
                 "last_commit": "2026-08-25T03:08:27Z",
                 "owner": "kanboard",
                 "repo": "kanboard",
-                "stars": 9821
+                "stars": 9823
               }
             },
             {
@@ -353,7 +353,7 @@
                 "archived": false,
                 "id": 6495081,
                 "language": "PHP",
-                "last_commit": "2026-08-25T05:31:38Z",
+                "last_commit": "2026-08-25T07:49:54Z",
                 "owner": "wikimedia",
                 "repo": "mediawiki",
                 "stars": 5152
@@ -438,7 +438,7 @@
                 "last_commit": "2026-08-24T14:12:58Z",
                 "owner": "thunderbird",
                 "repo": "thunderbird-android",
-                "stars": 13908
+                "stars": 13911
               }
             }
           ],
@@ -557,7 +557,7 @@
                 "last_commit": "2026-08-23T10:00:01Z",
                 "owner": "ActivityWatch",
                 "repo": "activitywatch",
-                "stars": 18702
+                "stars": 18701
               }
             },
             {
@@ -587,7 +587,7 @@
                 "last_commit": "2026-08-02T02:05:01Z",
                 "owner": "Splode",
                 "repo": "pomotroid",
-                "stars": 5445
+                "stars": 5446
               }
             },
             {
@@ -669,7 +669,7 @@
                 "last_commit": "2026-08-23T10:00:01Z",
                 "owner": "ActivityWatch",
                 "repo": "activitywatch",
-                "stars": 18702
+                "stars": 18701
               }
             },
             {
@@ -684,7 +684,7 @@
                 "last_commit": "2026-08-24T15:43:25Z",
                 "owner": "super-productivity",
                 "repo": "super-productivity",
-                "stars": 21573
+                "stars": 21577
               }
             },
             {
@@ -726,10 +726,10 @@
                 "archived": false,
                 "id": 13428264,
                 "language": "C#",
-                "last_commit": "2026-08-25T05:31:23Z",
+                "last_commit": "2026-08-25T06:04:08Z",
                 "owner": "ShareX",
                 "repo": "ShareX",
-                "stars": 39290
+                "stars": 39291
               }
             }
           ],
@@ -751,7 +751,7 @@
                 "last_commit": "2026-08-21T14:35:38Z",
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 365340
+                "stars": 365354
               }
             },
             {
@@ -796,7 +796,7 @@
                 "last_commit": "2026-07-14T05:38:25Z",
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 208401
+                "stars": 208405
               }
             },
             {
@@ -811,7 +811,7 @@
                 "last_commit": "2026-08-14T13:32:02Z",
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27645
+                "stars": 27646
               }
             },
             {
@@ -841,7 +841,7 @@
                 "last_commit": "2025-04-17T23:47:40Z",
                 "owner": "joebew42",
                 "repo": "study-path",
-                "stars": 3004
+                "stars": 3005
               }
             },
             {
@@ -901,7 +901,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70651
+                "stars": 70654
               }
             },
             {
@@ -931,7 +931,7 @@
                 "last_commit": "2026-03-20T01:52:19Z",
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 365863
+                "stars": 365886
               }
             }
           ],
@@ -974,7 +974,7 @@
                 "last_commit": "2026-03-02T12:50:21Z",
                 "owner": "kuchin",
                 "repo": "awesome-cto",
-                "stars": 35370
+                "stars": 35369
               }
             },
             {
@@ -1034,7 +1034,7 @@
                 "last_commit": "2024-08-21T13:01:11Z",
                 "owner": "kilimchoi",
                 "repo": "engineering-blogs",
-                "stars": 38545
+                "stars": 38549
               }
             },
             {
@@ -1104,7 +1104,7 @@
             "last_commit": "2026-05-19T06:22:17Z",
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27268
+            "stars": 27269
           },
           "title": "Laws to live by"
         }
@@ -1113,7 +1113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:11.566Z",
+    "last_updated": "2026-08-25T09:10:47.979Z",
     "original_repository": "engineering-management/awesome-engineering-management",
     "original_repository_id": 376036728,
     "original_repository_sha": "9549fa478bd2b40049002412c7d1b710c1f8c624",
