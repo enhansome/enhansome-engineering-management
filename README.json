@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation",
+                "homepage": null,
                 "id": 71206432,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T01:21:29Z",
+                "open_issues": 10,
                 "owner": "architecture-decision-record",
                 "repo": "architecture-decision-record",
-                "stars": 16754
+                "stars": 16756,
+                "topics": [
+                  "adr",
+                  "architecture-decision-record",
+                  "decision-record",
+                  "decisions",
+                  "documentation",
+                  "project-management",
+                  "teamwork",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -40,12 +54,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Agile Scrum poker planning bot for Slack",
+                    "homepage": null,
                     "id": 56460004,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2017-06-23T06:12:27Z",
+                    "open_issues": 1,
                     "owner": "nateyolles",
                     "repo": "slack-pokerbot",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "agile",
+                      "aws-lambda",
+                      "planning-poker",
+                      "slack",
+                      "slack-bot"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:20:28.811Z"
                 }
@@ -69,12 +94,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)",
+            "homepage": null,
             "id": 338818430,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2025-11-17T18:57:19Z",
+            "open_issues": 11,
             "owner": "upgundecha",
             "repo": "howtheysre",
-            "stars": 9802
+            "stars": 9802,
+            "topics": [
+              "alerting",
+              "chaos-engineering",
+              "dev-ops",
+              "devops",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "incident-management",
+              "incident-response",
+              "infrastructure",
+              "ml-ops",
+              "monitoring",
+              "observability",
+              "on-call",
+              "post-mortem",
+              "reliability",
+              "security",
+              "site-reliability-engineering",
+              "software-engineering",
+              "sre",
+              "sre-culture"
+            ]
           },
           "first_seen": "2026-08-28T20:20:28.811Z"
         },
@@ -85,12 +136,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of public resources about how software companies test their software",
+            "homepage": "https://abhivaikar.github.io/howtheytest/",
             "id": 249660426,
             "language": "TypeScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-22T05:12:59Z",
+            "open_issues": 3,
             "owner": "abhivaikar",
             "repo": "howtheytest",
-            "stars": 6866
+            "stars": 6865,
+            "topics": [
+              "companies",
+              "culture",
+              "knowledge",
+              "knowledge-sharing",
+              "quality",
+              "quality-engineering",
+              "software-quality",
+              "software-testing",
+              "test-engineering",
+              "testing",
+              "testing-practices"
+            ]
           },
           "first_seen": "2026-08-28T20:20:28.811Z"
         },
@@ -101,12 +169,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of publicly available resources on how companies around the world practice DevOps",
+            "homepage": null,
             "id": 339517244,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-11-25T06:52:30Z",
+            "open_issues": 1,
             "owner": "bregman-arie",
             "repo": "howtheydevops",
-            "stars": 1065
+            "stars": 1064,
+            "topics": [
+              "cd",
+              "ci",
+              "devops",
+              "pipeline",
+              "release"
+            ]
           },
           "first_seen": "2026-08-28T20:20:28.811Z"
         },
@@ -117,12 +196,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services (AWS)",
+            "homepage": null,
             "id": 339769186,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2023-10-10T14:20:05Z",
+            "open_issues": 2,
             "owner": "upgundecha",
             "repo": "howtheyaws",
-            "stars": 678
+            "stars": 678,
+            "topics": [
+              "amazon-web-services",
+              "automation",
+              "aws",
+              "cloud",
+              "cloud-computing",
+              "cloud-native",
+              "devops",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2021",
+              "infrastructure-as-code",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T20:20:28.811Z"
         },
@@ -133,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of publicly available resources on dbt best practices and how data-driven organizations around the world utilize dbt",
+            "homepage": null,
             "id": 339456014,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-02-28T17:29:03Z",
+            "open_issues": 0,
             "owner": "stumelius",
             "repo": "howtheydbt",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:28.811Z"
         }
@@ -157,12 +259,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
+                "homepage": "https://www.openproject.org",
                 "id": 6899875,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T19:35:04Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:37:36Z",
+                "open_issues": 226,
                 "owner": "opf",
                 "repo": "openproject",
-                "stars": 15963
+                "stars": 15964,
+                "topics": [
+                  "agile-development",
+                  "angular",
+                  "bcf",
+                  "boards",
+                  "bug-tracker",
+                  "gantt",
+                  "gantt-chart",
+                  "ifc",
+                  "issue-tracker",
+                  "jira-alternative",
+                  "kanban",
+                  "openproject",
+                  "product-management",
+                  "project-management",
+                  "project-planning",
+                  "roadmap",
+                  "ruby",
+                  "scrum",
+                  "timeline",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -180,12 +308,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+                "homepage": "https://www.focalboard.com",
                 "id": 301793434,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-18T16:05:00Z",
+                "open_issues": 784,
                 "owner": "mattermost-community",
                 "repo": "focalboard",
-                "stars": 26437
+                "stars": 26438,
+                "topics": [
+                  "asana",
+                  "collaboration",
+                  "goal-tracking",
+                  "golang",
+                  "hacktoberfest",
+                  "kanban-board",
+                  "notion",
+                  "project",
+                  "project-management",
+                  "trello"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -196,12 +340,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Trello-like application built with React and Redux. Take a look at the live website:",
+                "homepage": "https://www.reactkanban.com",
                 "id": 118835000,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-02-28T21:56:42Z",
+                "open_issues": 11,
                 "owner": "markusenglund",
                 "repo": "react-kanban",
-                "stars": 1710
+                "stars": 1710,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -212,12 +361,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/data/en.i18n.json, other translations at https://app.transifex.com/wekan/wekan",
+                "homepage": "https://wekan.fi",
                 "id": 16089035,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T15:21:02Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:32:56Z",
+                "open_issues": 281,
                 "owner": "wekan",
                 "repo": "wekan",
-                "stars": 21067
+                "stars": 21068,
+                "topics": [
+                  "docker-image",
+                  "foss",
+                  "javascript",
+                  "kanban",
+                  "meteor",
+                  "real-time",
+                  "sandstorm",
+                  "snapcraft",
+                  "wekan"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -228,12 +392,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kanban project management software",
+                "homepage": "https://kanboard.org",
                 "id": 16238673,
                 "language": "PHP",
-                "last_commit": "2026-08-28T02:23:06Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:29:28Z",
+                "open_issues": 157,
                 "owner": "kanboard",
                 "repo": "kanboard",
-                "stars": 9830
+                "stars": 9830,
+                "topics": [
+                  "agile",
+                  "kanban",
+                  "kanboard",
+                  "project-management",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -244,12 +419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kanban board for github issues",
+                "homepage": "https://huboard.com",
                 "id": 2659467,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-06-03T22:00:30Z",
+                "open_issues": 144,
                 "owner": "huboard",
                 "repo": "huboard",
-                "stars": 1713
+                "stars": 1713,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -260,12 +440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nullboard is a minimalist kanban board, focused on compactness and readability.",
+                "homepage": "https://nullboard.io/preview",
                 "id": 183931779,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-05T17:35:15Z",
+                "open_issues": 50,
                 "owner": "apankrat",
                 "repo": "nullboard",
-                "stars": 4148
+                "stars": 4148,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -283,12 +468,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recall what you or your team did on the last working day",
+                "homepage": null,
                 "id": 55859203,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-07-07T22:48:42Z",
+                "open_issues": 24,
                 "owner": "nilbuild",
                 "repo": "git-standup",
-                "stars": 7849
+                "stars": 7849,
+                "topics": [
+                  "agile",
+                  "git",
+                  "git-",
+                  "git-addons",
+                  "git-standup",
+                  "meeting",
+                  "standup"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -299,12 +497,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Slack bot for standup meetings",
+                "homepage": null,
                 "id": 89699217,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2018-12-30T02:41:57Z",
+                "open_issues": 2,
                 "owner": "redsift",
                 "repo": "scrumbot",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "bot",
+                  "serverless",
+                  "slack",
+                  "standup-meetings"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -315,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Daily, weekly, whenever standup bot for Slack",
+                "homepage": null,
                 "id": 48761890,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-06-13T16:31:53Z",
+                "open_issues": 5,
                 "owner": "colestrode",
                 "repo": "slack-standup-bot",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -331,12 +544,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mattermost plugin for communicating daily standups across teams",
+                "homepage": "https://www.standupraven.com",
                 "id": 182545561,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-30T14:25:10Z",
+                "open_issues": 69,
                 "owner": "standup-raven",
                 "repo": "standup-raven",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "hacktoberfest",
+                  "mattermost",
+                  "mattermost-plugin",
+                  "mattermost-standup-plugin",
+                  "meeting",
+                  "plugin",
+                  "productivity",
+                  "standup",
+                  "standup-bot",
+                  "standup-meetings",
+                  "standup-report",
+                  "standups",
+                  "team"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -354,12 +586,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOW MANAGED ON CODEBERG",
+                "homepage": "https://codeberg.org/bookstack/bookstack",
                 "id": 41589337,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:44:42Z",
+                "open_issues": 1,
                 "owner": "BookStackApp",
                 "repo": "BookStack",
-                "stars": 19005
+                "stars": 19006,
+                "topics": [
+                  "bookstack",
+                  "documentation",
+                  "laravel",
+                  "php",
+                  "selfhosted",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -370,12 +614,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.",
+                "homepage": "https://www.mediawiki.org",
                 "id": 6495081,
                 "language": "PHP",
-                "last_commit": "2026-08-28T20:06:03Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:48:37Z",
+                "open_issues": 0,
                 "owner": "wikimedia",
                 "repo": "mediawiki",
-                "stars": 5154
+                "stars": 5154,
+                "topics": [
+                  "mediawiki",
+                  "php",
+                  "wiki",
+                  "wikipedia"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -386,12 +640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a basic wiki clone so pretty and easy to set up, you’ll wonder if it’s really a wiki.",
+                "homepage": "https://golem.ph.utexas.edu/wiki/instiki/show/HomePage",
                 "id": 121885,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-27T20:52:47Z",
+                "open_issues": 7,
                 "owner": "parasew",
                 "repo": "instiki",
-                "stars": 508
+                "stars": 508,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -409,12 +668,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!",
+                "homepage": "https://nylas.com/nylas-mail/",
                 "id": 25315643,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-25T18:19:29Z",
+                "open_issues": 1003,
                 "owner": "nylas",
                 "repo": "nylas-mail",
-                "stars": 24734
+                "stars": 24734,
+                "topics": [
+                  "babel",
+                  "electron",
+                  "email",
+                  "flux",
+                  "javascript",
+                  "linux",
+                  "macos",
+                  "nylas-mail",
+                  "productivity",
+                  "react",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -425,12 +701,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
+                "homepage": "https://getmailspring.com/",
                 "id": 70777180,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T14:21:41Z",
+                "open_issues": 21,
                 "owner": "Foundry376",
                 "repo": "Mailspring",
-                "stars": 17763
+                "stars": 17763,
+                "topics": [
+                  "electron",
+                  "electron-app",
+                  "email",
+                  "imap",
+                  "linux",
+                  "mail",
+                  "osx",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -441,12 +731,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Free and Open Source messaging and emailing app that combines common web applications into one.",
+                "homepage": "https://rambox.app",
                 "id": 56087776,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2022-04-21T20:52:34Z",
+                "open_issues": 259,
                 "owner": "ramboxapp",
                 "repo": "community-edition",
-                "stars": 6382
+                "stars": 6382,
+                "topics": [
+                  "custom-services",
+                  "discord",
+                  "email",
+                  "facebook-workplace",
+                  "gmail",
+                  "hangouts",
+                  "hipchat",
+                  "icloud",
+                  "inbox",
+                  "linux",
+                  "macos",
+                  "messenger",
+                  "microsoft-teams",
+                  "outlook",
+                  "skype",
+                  "slack",
+                  "telegram",
+                  "tweetdeck",
+                  "whatsapp",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -457,12 +773,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
+                "homepage": "https://thunderbird.net/mobile",
                 "id": 1326671,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:16:35Z",
+                "open_issues": 1043,
                 "owner": "thunderbird",
                 "repo": "thunderbird-android",
-                "stars": 13930
+                "stars": 13932,
+                "topics": [
+                  "android",
+                  "communication",
+                  "email",
+                  "mozilla"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -480,12 +806,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agile metrics and charts calculated from JIRA",
+                "homepage": null,
                 "id": 131981157,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-01T21:15:12Z",
+                "open_issues": 24,
                 "owner": "DeloitteDigitalUK",
                 "repo": "jira-agile-metrics",
-                "stars": 264
+                "stars": 264,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -496,12 +827,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agile metrics tools allows you to track metrics from different sources in order to identify trends and patterns on how your team performance is affected by its environment Inspired by 'Agile Metrics in Action' book and https://github.com/cwhd/measurementor project",
+                "homepage": null,
                 "id": 162966727,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-13T21:24:27Z",
+                "open_issues": 31,
                 "owner": "patitalabs",
                 "repo": "agile-metrics-tools",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "agile-metrics",
+                  "identify-trends",
+                  "team-metrics",
+                  "tracking-metrics"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -512,12 +853,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "collecting agile metrics from jira, bitbucket, sonarqube and send them to elastic stack to visualize in kibana",
+                "homepage": "https://dagrisa.github.io/agile-metrics/",
                 "id": 124635751,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2022-11-15T23:46:32Z",
+                "open_issues": 5,
                 "owner": "DaGrisa",
                 "repo": "agile-metrics",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -528,12 +874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool to extract metrics from Jira, save data and charts locally for further analysis & presentation.  Kanban view of world as per Actionable Agile Metrics",
+                "homepage": null,
                 "id": 72098308,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-09-27T08:57:15Z",
+                "open_issues": 2,
                 "owner": "rnwolf",
                 "repo": "jira-metrics-extract",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -544,12 +895,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Actionable Agile metrics analysis tool kit based on Python. ",
+                "homepage": null,
                 "id": 173993788,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-03-12T14:06:11Z",
+                "open_issues": 1,
                 "owner": "rnwolf",
                 "repo": "pandas_agile_metrics",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -560,12 +916,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect to Jira REST API to collect completed story points, calculate weekly velocity, and estimate completion date",
+                "homepage": null,
                 "id": 91799032,
                 "language": "TypeScript",
+                "license": "LGPL-2.1",
                 "last_commit": "2023-09-14T10:00:33Z",
+                "open_issues": 20,
                 "owner": "Fgerthoffert",
                 "repo": "jira-agile-velocity",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -583,12 +944,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+                "homepage": "https://activitywatch.net/",
                 "id": 57224308,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-26T14:45:09Z",
+                "open_issues": 183,
                 "owner": "ActivityWatch",
                 "repo": "activitywatch",
-                "stars": 18736
+                "stars": 18738,
+                "topics": [
+                  "activitywatch",
+                  "afk",
+                  "analytics",
+                  "app",
+                  "cross-platform",
+                  "dashboard",
+                  "productivity",
+                  "quantified-self",
+                  "time-tracker",
+                  "time-tracking",
+                  "timetracker",
+                  "timetracking"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -599,12 +978,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pomodoro® time management assistant for Chrome",
+                "homepage": "https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef",
                 "id": 33863168,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-28T16:56:35Z",
+                "open_issues": 229,
                 "owner": "schmich",
                 "repo": "marinara",
-                "stars": 2457
+                "stars": 2457,
+                "topics": [
+                  "browser",
+                  "browser-extension",
+                  "chrome",
+                  "extension",
+                  "google-chrome",
+                  "javascript",
+                  "pomodoro",
+                  "productivity",
+                  "time-management",
+                  "timer"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -615,12 +1010,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":tomato: Simple and visually-pleasing Pomodoro timer",
+                "homepage": "https://pomotroid.app",
                 "id": 119006816,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-02T02:05:01Z",
+                "open_issues": 127,
                 "owner": "Splode",
                 "repo": "pomotroid",
-                "stars": 5455
+                "stars": 5457,
+                "topics": [
+                  "pomodoro",
+                  "pomodoro-technique",
+                  "pomodoro-timer",
+                  "productivity",
+                  "rust",
+                  "svelte",
+                  "tauri",
+                  "time-management"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -631,12 +1040,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stay Focused. Take a Break.",
+                "homepage": "https://zidoro.github.io/pomatez/",
                 "id": 206254792,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-19T14:32:40Z",
+                "open_issues": 167,
                 "owner": "zidoro",
                 "repo": "pomatez",
-                "stars": 4878
+                "stars": 4878,
+                "topics": [
+                  "pomodoro",
+                  "pomodoro-app",
+                  "pomodoro-clock",
+                  "pomodoro-technique",
+                  "pomodoro-timer",
+                  "productivity",
+                  "productivity-app",
+                  "productivity-booster",
+                  "productivity-timer",
+                  "productivity-tool",
+                  "time-management",
+                  "time-management-app",
+                  "time-management-tool",
+                  "tomato",
+                  "tomato-clock",
+                  "tomato-timer"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -647,12 +1078,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A time management utility for GNOME based on the pomodoro technique!",
+                "homepage": "http://gnomepomodoro.org/",
                 "id": 1563748,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T11:14:35Z",
+                "open_issues": 58,
                 "owner": "focustimerhq",
                 "repo": "FocusTimer",
-                "stars": 2238
+                "stars": 2238,
+                "topics": [
+                  "gnome",
+                  "linux",
+                  "pomodoro",
+                  "pomodoro-technique",
+                  "pomodoro-timer"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -663,12 +1105,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency.",
+                "homepage": null,
                 "id": 61319303,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T12:00:55Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T21:55:39Z",
+                "open_issues": 67,
                 "owner": "adrcotfas",
                 "repo": "goodtime",
-                "stars": 1876
+                "stars": 1876,
+                "topics": [
+                  "pomodoro",
+                  "pomodoro-timer",
+                  "productivity-timer",
+                  "time-management"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -686,12 +1138,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+                "homepage": "https://invoiceninja.com",
                 "id": 14716368,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T22:54:39Z",
+                "open_issues": 926,
                 "owner": "invoiceninja",
                 "repo": "invoiceninja",
-                "stars": 10033
+                "stars": 10034,
+                "topics": [
+                  "einvoicing",
+                  "expenses",
+                  "flutter",
+                  "hacktoberfest",
+                  "invoice",
+                  "invoiceninja",
+                  "invoices",
+                  "javascript",
+                  "kanban",
+                  "laravel",
+                  "payments",
+                  "php",
+                  "projects",
+                  "quotes",
+                  "tasks",
+                  "time-tracker"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -702,12 +1176,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.",
+                "homepage": "https://activitywatch.net/",
                 "id": 57224308,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-26T14:45:09Z",
+                "open_issues": 183,
                 "owner": "ActivityWatch",
                 "repo": "activitywatch",
-                "stars": 18736
+                "stars": 18738,
+                "topics": [
+                  "activitywatch",
+                  "afk",
+                  "analytics",
+                  "app",
+                  "cross-platform",
+                  "dashboard",
+                  "productivity",
+                  "quantified-self",
+                  "time-tracker",
+                  "time-tracking",
+                  "timetracker",
+                  "timetracking"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -718,12 +1210,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+                "homepage": "http://super-productivity.com?ref=github",
                 "id": 78243781,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T20:00:35Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:25:24Z",
+                "open_issues": 1450,
                 "owner": "super-productivity",
                 "repo": "super-productivity",
-                "stars": 21645
+                "stars": 21649,
+                "topics": [
+                  "android",
+                  "flowmodoro",
+                  "flowtime",
+                  "habit-tracker",
+                  "ios",
+                  "issue-tracker",
+                  "linux",
+                  "local-first",
+                  "macos",
+                  "open-source",
+                  "pomodoro",
+                  "pomodoro-timer",
+                  "privacy",
+                  "productivity",
+                  "task-manager",
+                  "time-tracker",
+                  "time-tracking",
+                  "to-do-list",
+                  "todo",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -734,12 +1252,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Toggl Desktop app for Windows, Mac and Linux",
+                "homepage": "https://toggl.github.io/toggldesktop/",
                 "id": 16703726,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-06-22T11:56:54Z",
+                "open_issues": 601,
                 "owner": "toggl-open-source",
                 "repo": "toggldesktop",
-                "stars": 1869
+                "stars": 1869,
+                "topics": [
+                  "desktop",
+                  "linux",
+                  "macos",
+                  "objective-c",
+                  "poco",
+                  "qt",
+                  "swift",
+                  "time-tracker",
+                  "toggl",
+                  "visual-studio",
+                  "windows",
+                  "wpf"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -750,12 +1286,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
+                "homepage": "https://www.kimai.org",
                 "id": 71485542,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-25T03:32:59Z",
+                "open_issues": 342,
                 "owner": "kimai",
                 "repo": "kimai",
-                "stars": 4950
+                "stars": 4950,
+                "topics": [
+                  "doctrine",
+                  "invoice",
+                  "invoicing",
+                  "kimai",
+                  "multilanguage",
+                  "php",
+                  "self-hosted",
+                  "symfony",
+                  "tabler",
+                  "time-tracker",
+                  "time-tracking",
+                  "timetracker",
+                  "timetracking",
+                  "timetrackingapp",
+                  "twig"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -766,12 +1323,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+                "homepage": "https://getsharex.com",
                 "id": 13428264,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T06:16:02Z",
+                "open_issues": 663,
                 "owner": "ShareX",
                 "repo": "ShareX",
-                "stars": 39354
+                "stars": 39356,
+                "topics": [
+                  "avalonia",
+                  "capture",
+                  "color-picker",
+                  "csharp",
+                  "dropbox",
+                  "file-sharing",
+                  "file-upload",
+                  "ftp",
+                  "gif",
+                  "gif-recorder",
+                  "image-annotation",
+                  "ocr",
+                  "productivity",
+                  "region-capture",
+                  "screen-capture",
+                  "screen-recorder",
+                  "screenshot",
+                  "share",
+                  "sharex",
+                  "url-shortener"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -789,12 +1372,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                "homepage": "https://roadmap.sh",
                 "id": 85077558,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T14:35:38Z",
+                "open_issues": 20,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 365784
+                "stars": 365794,
+                "topics": [
+                  "angular-roadmap",
+                  "backend-roadmap",
+                  "blockchain-roadmap",
+                  "computer-science",
+                  "dba-roadmap",
+                  "developer-roadmap",
+                  "devops-roadmap",
+                  "frontend-roadmap",
+                  "go-roadmap",
+                  "java-roadmap",
+                  "javascript-roadmap",
+                  "nodejs-roadmap",
+                  "python-roadmap",
+                  "qa-roadmap",
+                  "react-roadmap",
+                  "roadmap",
+                  "software-architect-roadmap",
+                  "vue-roadmap"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -805,12 +1412,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer :books:",
+                "homepage": null,
                 "id": 121133891,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-06-04T11:08:57Z",
+                "open_issues": 9,
                 "owner": "fityanos",
                 "repo": "awesome-quality-assurance-roadmap",
-                "stars": 2170
+                "stars": 2170,
+                "topics": [
+                  "api-testing",
+                  "automation-test",
+                  "awesome",
+                  "awesome-list",
+                  "career",
+                  "e2e-testing",
+                  "qa",
+                  "quality-engineering",
+                  "roadmap",
+                  "software-testing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -821,12 +1445,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ultra-simplified explanation to design patterns",
+                "homepage": null,
                 "id": 82227585,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-02T04:54:48Z",
+                "open_issues": 16,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48738
+                "stars": 48748,
+                "topics": [
+                  "architecture",
+                  "computer-science",
+                  "design-patterns",
+                  "engineering",
+                  "principles",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -837,12 +1473,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎓 Path to a free self-taught education in Computer Science!",
+                "homepage": "https://cs.ossu.dev",
                 "id": 19415064,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-07-14T05:38:25Z",
+                "open_issues": 27,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 208479
+                "stars": 208489,
+                "topics": [
+                  "awesome-list",
+                  "computer-science",
+                  "courses",
+                  "curriculum"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -853,12 +1499,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😱 Falsehoods Programmers Believe in",
+                "homepage": null,
                 "id": 67687706,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-14T13:32:02Z",
+                "open_issues": 4,
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27652
+                "stars": 27653,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "currency",
+                  "date",
+                  "edge-cases",
+                  "falsehoods",
+                  "geography",
+                  "identity",
+                  "internationalization",
+                  "myths",
+                  "names",
+                  "phone-number",
+                  "phone-numbers",
+                  "postal-addresses",
+                  "time",
+                  "timezone",
+                  "typography",
+                  "unicode",
+                  "unicode-characters",
+                  "video-games"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -869,12 +1541,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preparation links and resources for system design questions",
+                "homepage": null,
                 "id": 37711899,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-10T19:49:11Z",
+                "open_issues": 14,
                 "owner": "shashank88",
                 "repo": "system_design",
-                "stars": 9249
+                "stars": 9249,
+                "topics": [
+                  "architecture",
+                  "concurrency",
+                  "engineering",
+                  "facebook",
+                  "interview",
+                  "interview-preparation",
+                  "interview-preparation-resources",
+                  "interview-questions",
+                  "preparation",
+                  "scalability",
+                  "scale-systems",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -885,12 +1575,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated, open, and ever-evolving learning path focused on practices of software development, principles of software design, and software architecture.",
+                "homepage": null,
                 "id": 43431942,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-04-17T23:47:40Z",
+                "open_issues": 11,
                 "owner": "joebew42",
                 "repo": "study-path",
-                "stars": 3005
+                "stars": 3005,
+                "topics": [
+                  "agile",
+                  "clean-architecture",
+                  "clean-code",
+                  "cqrs-es",
+                  "domain-driven-design",
+                  "hexagonal-architecture",
+                  "learning",
+                  "legacy-code",
+                  "microservice-architecture",
+                  "refactoring",
+                  "software-development",
+                  "solid-principles",
+                  "study-path",
+                  "tdd"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -901,12 +1611,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more",
+                "homepage": "https://twitter.com/palash2504/status/1180570821351366656",
                 "id": 202397474,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-08-26T16:57:29Z",
+                "open_issues": 0,
                 "owner": "palash25",
                 "repo": "best-practices-checklist",
-                "stars": 976
+                "stars": 976,
+                "topics": [
+                  "best-practices",
+                  "idioms",
+                  "polyglot-dev",
+                  "software-design",
+                  "software-development"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -917,12 +1638,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of topics to start learning software engineering",
+                "homepage": null,
                 "id": 60152989,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-17T04:27:11Z",
+                "open_issues": 4,
                 "owner": "vicoyeh",
                 "repo": "pointers-for-software-engineers",
-                "stars": 5736
+                "stars": 5735,
+                "topics": [
+                  "computer-science",
+                  "curated-list",
+                  "mooc",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -933,12 +1664,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of evergreen skills, based on software development best practices & cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers",
+                "homepage": "https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer/",
                 "id": 162977720,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-12-17T06:45:53Z",
+                "open_issues": 2,
                 "owner": "romenrg",
                 "repo": "evergreen-skills-developers",
-                "stars": 2271
+                "stars": 2271,
+                "topics": [
+                  "best-practices",
+                  "clean-code",
+                  "cross-framework-principles",
+                  "evergreen-skills",
+                  "software-development",
+                  "software-engineering",
+                  "software-engineering-concepts",
+                  "technical-interview-questions",
+                  "technical-interviews"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -949,12 +1695,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: List of awesome university courses for learning Computer Science!",
+                "homepage": null,
                 "id": 26689598,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-04T12:49:34Z",
+                "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70720
+                "stars": 70729,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "computer-science",
+                  "courses"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -965,12 +1721,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome online courses and tutorials on software testing, test automation and more...",
+                "homepage": "https://unmesh.dev/awesome-testing-courses/",
                 "id": 254097387,
                 "language": "HTML",
+                "license": "CC0-1.0",
                 "last_commit": "2020-08-29T09:26:41Z",
+                "open_issues": 2,
                 "owner": "upgundecha",
                 "repo": "awesome-testing-courses",
-                "stars": 478
+                "stars": 478,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "courses",
+                  "software-testing",
+                  "test-automation",
+                  "testing-techniques"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -981,12 +1749,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+                "homepage": null,
                 "id": 83222441,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-20T01:52:19Z",
+                "open_issues": 613,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 366572
+                "stars": 366601,
+                "topics": [
+                  "design",
+                  "design-patterns",
+                  "design-system",
+                  "development",
+                  "interview",
+                  "interview-practice",
+                  "interview-questions",
+                  "programming",
+                  "python",
+                  "system",
+                  "web",
+                  "web-application",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -1010,12 +1797,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Books for people who are or aspire to manage/lead team(s) of software engineers",
+                "homepage": null,
                 "id": 69979342,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-01-27T18:53:43Z",
+                "open_issues": 0,
                 "owner": "jesselpalmer",
                 "repo": "the-engineering-managers-booklist",
-                "stars": 1691
+                "stars": 1691,
+                "topics": [
+                  "booklist",
+                  "books",
+                  "culture",
+                  "engineering",
+                  "engineering-leadership",
+                  "engineering-management",
+                  "leadership",
+                  "list",
+                  "lists",
+                  "management",
+                  "reading-list",
+                  "readling",
+                  "resources",
+                  "software-development",
+                  "software-engineering",
+                  "the-engineering-manager-series"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -1026,12 +1835,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+                "homepage": null,
                 "id": 76679496,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-02T12:50:21Z",
+                "open_issues": 4,
                 "owner": "kuchin",
                 "repo": "awesome-cto",
-                "stars": 35381
+                "stars": 35383,
+                "topics": [
+                  "architecture",
+                  "awesome",
+                  "awesome-list",
+                  "cto",
+                  "decision-making",
+                  "engineering-management",
+                  "hiring",
+                  "interviewing",
+                  "leadership",
+                  "management",
+                  "principles",
+                  "roadmap",
+                  "software-engineering",
+                  "startups"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -1042,12 +1871,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sunglasses: All the required resources to build your own startup",
+                "homepage": null,
                 "id": 48127781,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-26T21:03:38Z",
+                "open_issues": 0,
                 "owner": "KrishMunot",
                 "repo": "awesome-startup",
-                "stars": 2334
+                "stars": 2334,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "ai-tools",
+                  "awesome",
+                  "awesome-list",
+                  "code",
+                  "discounts",
+                  "engineering",
+                  "entrepreneurs",
+                  "free-software",
+                  "hacktober",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "saas",
+                  "saas-platform",
+                  "startup",
+                  "startup-services",
+                  "startups",
+                  "venture-capital"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -1058,12 +1912,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of inspiring resources related to engineering management and tech leadership",
+                "homepage": null,
                 "id": 54109344,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-19T14:47:12Z",
+                "open_issues": 1,
                 "owner": "charlax",
                 "repo": "engineering-management",
-                "stars": 8347
+                "stars": 8347,
+                "topics": [
+                  "article",
+                  "bias",
+                  "culture",
+                  "decisions",
+                  "employee-handbook",
+                  "engineering-management",
+                  "leader",
+                  "management"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -1074,12 +1942,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👔 How to transition from software development to engineering management",
+                "homepage": null,
                 "id": 308356445,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-14T09:09:00Z",
+                "open_issues": 4,
                 "owner": "kdeldycke",
                 "repo": "awesome-engineering-team-management",
-                "stars": 2587
+                "stars": 2587,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "career",
+                  "compensation",
+                  "cto",
+                  "culture",
+                  "engineering-manager",
+                  "engineering-team",
+                  "executive-management",
+                  "hiring",
+                  "leadership",
+                  "management",
+                  "motivation",
+                  "onboarding",
+                  "politics",
+                  "product-management",
+                  "recruitment",
+                  "systems",
+                  "team-management",
+                  "transition"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -1090,12 +1984,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of engineering blogs",
+                "homepage": null,
                 "id": 37382858,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2024-08-21T13:01:11Z",
+                "open_issues": 151,
                 "owner": "kilimchoi",
                 "repo": "engineering-blogs",
-                "stars": 38554
+                "stars": 38555,
+                "topics": [
+                  "engineering-blogs",
+                  "lists",
+                  "programming-blogs",
+                  "software-development",
+                  "tech"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -1106,12 +2011,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of resources for building and promoting more compassionate engineering cultures",
+                "homepage": null,
                 "id": 53987907,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2016-07-29T01:21:22Z",
+                "open_issues": 5,
                 "owner": "KimberlyMunoz",
                 "repo": "empathy-in-engineering",
-                "stars": 578
+                "stars": 578,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "culture",
+                  "empathy",
+                  "engineering",
+                  "lists"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -1122,12 +2039,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome lists about Project Management interesting and useful topics.",
+                "homepage": "https://netspeedm.com/",
                 "id": 194248002,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-28T20:43:44Z",
+                "open_issues": 21,
                 "owner": "shahedbd",
                 "repo": "awesome-project-management",
-                "stars": 798
+                "stars": 798,
+                "topics": [
+                  "csm",
+                  "management",
+                  "pmi",
+                  "pmp",
+                  "project",
+                  "project-management",
+                  "team"
+                ]
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             },
@@ -1138,12 +2068,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of engineering manager resource links.",
+                "homepage": null,
                 "id": 74421371,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-17T17:03:00Z",
+                "open_issues": 6,
                 "owner": "ryanburgess",
                 "repo": "engineer-manager",
-                "stars": 10724
+                "stars": 10724,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:28.811Z"
             }
@@ -1164,12 +2099,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🧠 Laws, Theories, Principles and Patterns for developers and technologists.",
+            "homepage": "http://hacker-laws.com/",
             "id": 118858739,
             "language": "HTML",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-05-19T06:22:17Z",
+            "open_issues": 152,
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27273
+            "stars": 27273,
+            "topics": [
+              "coding",
+              "computerscience",
+              "laws",
+              "principles"
+            ]
           },
           "title": "Laws to live by",
           "first_seen": "2026-08-28T20:20:28.811Z"
@@ -1179,15 +2124,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:20:28.811Z",
+    "last_updated": "2026-08-29T04:21:00.920Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Pointers and tools for learning and day-to-day practice of engineering management & leadership.",
+      "homepage": null,
       "id": 376036728,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-05T15:19:48Z",
+      "open_issues": 2,
       "owner": "engineering-management",
       "repo": "awesome-engineering-management",
-      "stars": 2759
+      "stars": 2759,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "engineering-management",
+        "leadership",
+        "productivity",
+        "project-management"
+      ]
     },
     "original_repository_sha": "9549fa478bd2b40049002412c7d1b710c1f8c624",
     "enhanced_repository": "enhansome/enhansome-engineering-management",
