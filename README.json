@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Process",
-              "description": null,
+              "description": "architecture-decision-record/architecture-decision-record",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "architecture-decision-record",
                 "repo": "architecture-decision-record",
-                "stars": 17077,
+                "stars": 17076,
                 "topics": [
                   "adr",
                   "architecture-decision-record",
@@ -38,7 +38,7 @@
             {
               "node_type": "item",
               "title": "Machine-readable format",
-              "description": null,
+              "description": "reasoning-formats/reasoning-formats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -79,7 +79,7 @@
                 {
                   "node_type": "item",
                   "title": "Slack bot",
-                  "description": null,
+                  "description": "nateyolles/slack-pokerbot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -119,7 +119,7 @@
         {
           "node_type": "item",
           "title": "SRE",
-          "description": "https://github.com/upgundecha/howtheysre",
+          "description": "upgundecha/howtheysre",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "Test",
-          "description": "https://github.com/abhivaikar/howtheytest",
+          "description": "abhivaikar/howtheytest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
             "open_issues": 4,
             "owner": "abhivaikar",
             "repo": "howtheytest",
-            "stars": 6876,
+            "stars": 6877,
             "topics": [
               "companies",
               "culture",
@@ -194,7 +194,7 @@
         {
           "node_type": "item",
           "title": "Devops",
-          "description": "https://github.com/bregman-arie/howtheydevops",
+          "description": "bregman-arie/howtheydevops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "AWS",
-          "description": "https://github.com/upgundecha/howtheyaws",
+          "description": "upgundecha/howtheyaws",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -255,7 +255,7 @@
         {
           "node_type": "item",
           "title": "DBT",
-          "description": "https://github.com/stumelius/howtheydbt",
+          "description": "stumelius/howtheydbt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -293,11 +293,11 @@
                 "id": 6899875,
                 "language": "Ruby",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T14:41:04Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-03T03:34:53Z",
+                "open_issues": 245,
                 "owner": "opf",
                 "repo": "openproject",
-                "stars": 16285,
+                "stars": 16290,
                 "topics": [
                   "agile-development",
                   "angular",
@@ -346,7 +346,7 @@
                 "open_issues": 784,
                 "owner": "mattermost-community",
                 "repo": "focalboard",
-                "stars": 26495,
+                "stars": 26492,
                 "topics": [
                   "asana",
                   "collaboration",
@@ -395,11 +395,11 @@
                 "id": 16089035,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:03:13Z",
-                "open_issues": 114,
+                "last_commit": "2026-10-02T21:21:09Z",
+                "open_issues": 112,
                 "owner": "wekan",
                 "repo": "wekan",
-                "stars": 21104,
+                "stars": 21103,
                 "topics": [
                   "docker-image",
                   "foss",
@@ -620,7 +620,7 @@
                 "id": 41589337,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:31:33Z",
+                "last_commit": "2026-10-03T04:31:24Z",
                 "open_issues": 3,
                 "owner": "BookStackApp",
                 "repo": "BookStack",
@@ -648,11 +648,11 @@
                 "id": 6495081,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:30:13Z",
+                "last_commit": "2026-10-03T04:35:03Z",
                 "open_issues": 0,
                 "owner": "wikimedia",
                 "repo": "mediawiki",
-                "stars": 5190,
+                "stars": 5192,
                 "topics": [
                   "mediawiki",
                   "php",
@@ -706,7 +706,7 @@
                 "open_issues": 1003,
                 "owner": "nylas",
                 "repo": "nylas-mail",
-                "stars": 24734,
+                "stars": 24733,
                 "topics": [
                   "babel",
                   "electron",
@@ -735,11 +735,11 @@
                 "id": 70777180,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T14:49:12Z",
+                "last_commit": "2026-10-02T23:11:31Z",
                 "open_issues": 34,
                 "owner": "Foundry376",
                 "repo": "Mailspring",
-                "stars": 17873,
+                "stars": 17874,
                 "topics": [
                   "electron",
                   "electron-app",
@@ -807,11 +807,11 @@
                 "id": 1326671,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:51:56Z",
-                "open_issues": 1069,
+                "last_commit": "2026-10-02T17:22:30Z",
+                "open_issues": 1071,
                 "owner": "thunderbird",
                 "repo": "thunderbird-android",
-                "stars": 14055,
+                "stars": 14057,
                 "topics": [
                   "android",
                   "communication",
@@ -982,7 +982,7 @@
                 "open_issues": 198,
                 "owner": "ActivityWatch",
                 "repo": "activitywatch",
-                "stars": 19035,
+                "stars": 19040,
                 "topics": [
                   "activitywatch",
                   "afk",
@@ -1143,7 +1143,7 @@
                 "open_issues": 69,
                 "owner": "adrcotfas",
                 "repo": "goodtime",
-                "stars": 1913,
+                "stars": 1912,
                 "topics": [
                   "pomodoro",
                   "pomodoro-timer",
@@ -1176,7 +1176,7 @@
                 "open_issues": 211,
                 "owner": "invoiceninja",
                 "repo": "invoiceninja",
-                "stars": 10203,
+                "stars": 10207,
                 "topics": [
                   "einvoicing",
                   "expenses",
@@ -1214,7 +1214,7 @@
                 "open_issues": 198,
                 "owner": "ActivityWatch",
                 "repo": "activitywatch",
-                "stars": 19035,
+                "stars": 19040,
                 "topics": [
                   "activitywatch",
                   "afk",
@@ -1244,11 +1244,11 @@
                 "id": 78243781,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T14:28:12Z",
-                "open_issues": 1465,
+                "last_commit": "2026-10-02T23:17:40Z",
+                "open_issues": 1474,
                 "owner": "super-productivity",
                 "repo": "super-productivity",
-                "stars": 22474,
+                "stars": 22490,
                 "topics": [
                   "android",
                   "flowmodoro",
@@ -1324,7 +1324,7 @@
                 "open_issues": 351,
                 "owner": "kimai",
                 "repo": "kimai",
-                "stars": 5054,
+                "stars": 5056,
                 "topics": [
                   "doctrine",
                   "invoice",
@@ -1357,11 +1357,11 @@
                 "id": 13428264,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T12:06:10Z",
-                "open_issues": 631,
+                "last_commit": "2026-10-02T18:11:47Z",
+                "open_issues": 630,
                 "owner": "ShareX",
                 "repo": "ShareX",
-                "stars": 39843,
+                "stars": 39847,
                 "topics": [
                   "avalonia",
                   "capture",
@@ -1410,7 +1410,7 @@
                 "open_issues": 0,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 368710,
+                "stars": 368748,
                 "topics": [
                   "angular-roadmap",
                   "backend-roadmap",
@@ -1450,7 +1450,7 @@
                 "open_issues": 9,
                 "owner": "fityanos",
                 "repo": "awesome-quality-assurance-roadmap",
-                "stars": 2184,
+                "stars": 2185,
                 "topics": [
                   "api-testing",
                   "automation-test",
@@ -1483,7 +1483,7 @@
                 "open_issues": 18,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48891,
+                "stars": 48892,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -1511,7 +1511,7 @@
                 "open_issues": 28,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 209688,
+                "stars": 209701,
                 "topics": [
                   "awesome-list",
                   "computer-science",
@@ -1537,7 +1537,7 @@
                 "open_issues": 4,
                 "owner": "kdeldycke",
                 "repo": "awesome-falsehood",
-                "stars": 27745,
+                "stars": 27747,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1676,7 +1676,7 @@
                 "open_issues": 5,
                 "owner": "vicoyeh",
                 "repo": "pointers-for-software-engineers",
-                "stars": 5739,
+                "stars": 5738,
                 "topics": [
                   "computer-science",
                   "curated-list",
@@ -1733,7 +1733,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71535,
+                "stars": 71549,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1787,7 +1787,7 @@
                 "open_issues": 623,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 372915,
+                "stars": 372976,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -1873,7 +1873,7 @@
                 "open_issues": 8,
                 "owner": "kuchin",
                 "repo": "awesome-cto",
-                "stars": 35540,
+                "stars": 35543,
                 "topics": [
                   "architecture",
                   "awesome",
@@ -1906,10 +1906,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-26T21:03:38Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "KrishMunot",
                 "repo": "awesome-startup",
-                "stars": 2358,
+                "stars": 2360,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -2022,7 +2022,7 @@
                 "open_issues": 151,
                 "owner": "kilimchoi",
                 "repo": "engineering-blogs",
-                "stars": 38727,
+                "stars": 38730,
                 "topics": [
                   "engineering-blogs",
                   "lists",
@@ -2049,7 +2049,7 @@
                 "open_issues": 5,
                 "owner": "KimberlyMunoz",
                 "repo": "empathy-in-engineering",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2137,7 +2137,7 @@
             "open_issues": 153,
             "owner": "dwmkerr",
             "repo": "hacker-laws",
-            "stars": 27304,
+            "stars": 27303,
             "topics": [
               "coding",
               "computerscience",
@@ -2153,7 +2153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:56:17.997Z",
+    "last_updated": "2026-10-03T04:45:14.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Pointers and tools for learning and day-to-day practice of engineering management & leadership.",
@@ -2165,7 +2165,7 @@
       "open_issues": 5,
       "owner": "engineering-management",
       "repo": "awesome-engineering-management",
-      "stars": 2771,
+      "stars": 2772,
       "topics": [
         "awesome",
         "awesome-list",
